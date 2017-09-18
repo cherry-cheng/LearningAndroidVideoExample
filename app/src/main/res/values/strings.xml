@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NormalButton</string>
+    <string name="hello">Hello, ProgressBarTest</string>
+    <string name="button_hint">Begin</string>
+</resources>
